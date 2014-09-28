@@ -1,1 +1,31 @@
-hackbaked.css
+body {
+    background-color: #fb8c00;
+}
+
+h1 {
+    color: #fff3e0;
+    font-family: "Roboto";
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    color: #fff3e0;
+    font-family: "Roboto";
+    ont-size: 24px;
+    text-align: center;
+}
+
+p {
+	color: #fff3e0;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.someText {
+	color: #fff3e0;
+    font-family: "Roboto";
+    font-size: 18px;
+
+}
+
